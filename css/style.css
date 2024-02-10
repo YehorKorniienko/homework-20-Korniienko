@@ -13,3 +13,18 @@
 .media{
     font-size: 30px;
 }
+.img1{
+    width: 100%;
+    height: 200px;
+}
+.blue{
+    color: white;
+    background-color: gray;
+    border-radius: 100%;
+}
+.end{
+    text-align: end;
+}
+.grey{
+    color: gray;
+}
