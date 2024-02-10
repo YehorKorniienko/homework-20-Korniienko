@@ -3,11 +3,13 @@
     flex-direction: space-between;
 }
 .col1{
-    text-align: end;
     display: flex;
     justify-content: end;
-    align-items: end;
-    align-content: end;
-    align-self: flex-end;
-    justify-items: end;
+}
+
+.black-text{
+    color: black;
+}
+.media{
+    font-size: 30px;
 }
